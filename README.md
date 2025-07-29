@@ -18,7 +18,7 @@ WEB-Scraping-Cripto/
 Como executar o projeto
 1. Clone o repositório
 ```
-git clone https://github.com/EulerBelfort/WEB-Scraping-Cripto.git
+git clone https://github.com/EulerBelfort/web-scraping-vs-api.git
 cd WEB-Scraping-Cripto
 ```
 2. Crie e ative um ambiente virtual (opcional, mas recomendado)
