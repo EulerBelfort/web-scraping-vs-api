@@ -63,4 +63,3 @@ uvicorn
 Observações
 O script de scraping pode usar Selenium ou requests + BeautifulSoup dependendo da fonte.
 
-O arquivo .gitignore pode incluir o ambiente virtual e arquivos temporários.
