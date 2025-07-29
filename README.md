@@ -19,7 +19,7 @@ Como executar o projeto
 1. Clone o repositório
 ```
 git clone https://github.com/EulerBelfort/web-scraping-vs-api.git
-cd WEB-Scraping-Cripto
+cd web-scraping-vs-api
 ```
 2. Crie e ative um ambiente virtual (opcional, mas recomendado)
 ```
